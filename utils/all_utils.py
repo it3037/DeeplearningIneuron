@@ -8,12 +8,20 @@ from matplotlib.colors import ListedColormap
 import os
 
 def prepare_data(df):
-    X = df.drop("y" , axis=1)
+  """ It is use to separate the dependent variables and independent variables   
+
+  Args:
+      df (pd.dataFrame): It is pandas dataFrame   
+
+  Returns:
+     tuple: It returns the dependent variables and independent variables 
+  """
+  X = df.drop("y" , axis=1)
 
 
-    y = df["y"]
+  y = df["y"]
 
-    return X , y
+  return X , y
 
 def save_model(model, filename):
   model_dir = "models"

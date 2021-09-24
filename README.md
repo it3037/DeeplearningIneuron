@@ -7,4 +7,4 @@ Deep Learning with Ineuron
 
 '''bash
  git add . && git commit -m "docstring" && git push origin main
- '''
+'''

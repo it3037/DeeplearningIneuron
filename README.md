@@ -17,3 +17,8 @@ git add . && git commit -m "docstring" && git push origin main
 cp Research\ Notebook/demoo.ipynb .
 
 '''
+
+# Replace code 
+'''
+ctrl+h
+'''

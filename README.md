@@ -18,6 +18,10 @@ cp Research\ Notebook/demoo.ipynb .
 
 '''
 
+```bash
+  npm run test
+```
+
 # Replace code 
 '''
 ctrl+h

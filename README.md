@@ -23,3 +23,5 @@ cp Research\ Notebook/demoo.ipynb .
 ctrl+h
 ```
 ![sample Image](plots/and.png)
+
+![sample Image](plots/or.png)

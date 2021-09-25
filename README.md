@@ -22,3 +22,4 @@ cp Research\ Notebook/demoo.ipynb .
 ```bash
 ctrl+h
 ```
+![sample Image](DeeplearningIneuron/plots/and.png)

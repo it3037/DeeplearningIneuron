@@ -32,7 +32,10 @@ ctrl+h
 
 ![sample Image](plots/or.png)
 
-'''
+
+
+
+```
 def main(data, modelName, plotName, eta, epochs):
     df = pd.DataFrame(data)
     logging.info(f"This is actual dataframe{df}")
@@ -41,6 +44,4 @@ def main(data, modelName, plotName, eta, epochs):
     model.fit(X, y)
     _ = model.total_loss()
     save_model(model, filename=modelName)
-    save_plot(df, plotName, model)
-    
-'''
+    save_plot(df, plotName, model)```

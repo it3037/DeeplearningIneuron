@@ -24,7 +24,7 @@ ctrl+h
 ```
 
 ## URL ADD
-![git DeeplearningIneuron](https://github.com/it3037rakesh/DeeplearningIneuron.git)
+[git DeeplearningIneuron](https://github.com/it3037rakesh/DeeplearningIneuron.git)
 
 ## Images
 

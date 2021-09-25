@@ -22,6 +22,12 @@ cp Research\ Notebook/demoo.ipynb .
 ```bash
 ctrl+h
 ```
+
+## URL ADD
+![git DeeplearningIneuron](https://github.com/it3037rakesh/DeeplearningIneuron.git)
+
+## Images
+
 ![sample Image](plots/and.png)
 
 ![sample Image](plots/or.png)
